@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SLNIPlayground.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftStandardLibrary.playground">
+   </FileRef>
+   <FileRef
       location = "group:POPPlayground.playground">
    </FileRef>
    <FileRef
